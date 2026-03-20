@@ -1,2 +1,1 @@
-weather_app
-Real-Time Weather App
+Real-Time Weather App Project
